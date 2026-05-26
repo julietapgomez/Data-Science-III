@@ -144,7 +144,7 @@ Como trabajo futuro podrían explorarse:
 📄 amazon_reviews.csv
 
 📁 notebook/
-📄 proyecto_final_nlp_amazon.ipynb
+📄 Proyecto Final DS III - Julieta Gomez.ipynb
 
 📄 README.md
 ```
